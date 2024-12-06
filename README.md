@@ -1,4 +1,4 @@
-<a href="https://juejin.cn/book/7031893648145186824"><img align="right" src="https://user-images.githubusercontent.com/7856674/145028516-3fe0020c-2bab-4bb9-b7bf-784433387614.png" height="420" /></a>
+<a href="https://juejin.cn/book/7031893648145186824"><img align="right" src="https://user-images.githubusercontent.com/7856674/145028516-3fe0020c-2bab-4bb9-b7bf-784433387614.png" width="236" /></a>
 
 I'm a open source enthusiast, good at front-end development.
 
