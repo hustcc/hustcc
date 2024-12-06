@@ -1,9 +1,8 @@
 <a href="https://juejin.cn/book/7031893648145186824"><img align="right" src="https://user-images.githubusercontent.com/7856674/145028516-3fe0020c-2bab-4bb9-b7bf-784433387614.png" height="420" /></a>
 
-I'm a open source enthusiast, good at front-end development. ![PV](https://visitor-badge.glitch.me/badge?page_id=hustcc)
+I'm a open source enthusiast, good at front-end development.
 
-<img  src="https://github.com/user-attachments/assets/63b4131e-574f-4948-b1cb-71d309a5192e" height="32" /></a>
-
+<img src="https://github.com/user-attachments/assets/cdf7ba50-b751-4b32-8892-ebf11198b2d3" height="24" />
 
 - 🌱 I’m currently working in ant financial
 - 🏗 Focus on BI and data visualization
