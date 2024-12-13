@@ -2,7 +2,9 @@
 
 I'm a open source enthusiast, good at front-end development.
 
-<img src="https://github.com/user-attachments/assets/cdf7ba50-b751-4b32-8892-ebf11198b2d3" height="24" />
+[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/hustcc-g2-maintainer.json)](https://github.com/antvis/G2)
+[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/hustcc-g6-maintainer.json)](https://github.com/antvis/G6)
+[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/hustcc-gpt-vis-contributor.json)](https://github.com/antvis/GPT-Vis)
 
 - 🌱 I’m currently working in ant financial
 - 🏗 Focus on BI and data visualization
