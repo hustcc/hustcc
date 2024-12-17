@@ -6,7 +6,7 @@ I'm a open source enthusiast, good at front-end development.
 [![](https://img.shields.io/endpoint?url=https://awards.antv.vision/hustcc-g6-maintainer.json)](https://github.com/antvis/G6)
 [![](https://img.shields.io/endpoint?url=https://awards.antv.vision/hustcc-l7-skilled.json)](https://github.com/antvis/L7)
 [![](https://img.shields.io/endpoint?url=https://awards.antv.vision/hustcc-gpt-vis-contributor.json)](https://github.com/antvis/GPT-Vis)
-[![](https://img.shields.io/badge/AntV-AVA_User-blue?&logo=antv&color=FFF&labelColor=8B5DFF)](https://github.com/antvis/AVA)
+[![](https://img.shields.io/badge/AntV-AVA_User-blue?&logo=antv&color=FFF&labelColor=8B5DFF&logoColor=white)](https://github.com/antvis/AVA)
 
 
 - 🌱 I’m currently working in Ant Gruop
