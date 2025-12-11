@@ -9,8 +9,8 @@ I'm a open source enthusiast, good at front-end development.
 [![](https://img.shields.io/badge/AntV-Infographic_User-blue?&logo=antv&color=FFF&labelColor=8B5DFF&logoColor=white)](https://github.com/antvis/Infographic)
 
 
-- 🌱 I’m currently working in Ant Gruop
-- 🏗 Focus on BI and data visualization
+- 🌱 I’m currently working in Ant Gruop and [AntV](https://github.com/antvis)
+- 🏗 Focus on AI and data visualization
 - 💬 WeChat: `AnyPlot`
-- 📫 Ping me by [Email](mailto:i@hust.cc)
 
+![hustcc's GitHub stats](https://github.com/hustcc/github-stats/raw/master/generated/overview.svg)
