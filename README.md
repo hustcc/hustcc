@@ -2,10 +2,11 @@
 
 I'm a open source enthusiast, good at front-end development.
 
+<a href="https://trendshift.io/developers/1708" target="_blank"><img src="https://trendshift.io/api/badge/developers/1708" alt="hustcc | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
+
 [![](https://img.shields.io/endpoint?url=https://awards.antv.vision/hustcc-g2-maintainer.json)](https://github.com/antvis/G2)
 [![](https://img.shields.io/endpoint?url=https://awards.antv.vision/hustcc-g6-maintainer.json)](https://github.com/antvis/G6)
 [![](https://img.shields.io/endpoint?url=https://awards.antv.vision/hustcc-l7-skilled.json)](https://github.com/antvis/L7)
-[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/hustcc-gpt-vis-contributor.json)](https://github.com/antvis/GPT-Vis)
 [![](https://img.shields.io/badge/AntV-Infographic_User-blue?&logo=antv&color=FFF&labelColor=8B5DFF&logoColor=white)](https://github.com/antvis/Infographic)
 
 
