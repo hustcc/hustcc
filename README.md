@@ -11,5 +11,3 @@ I'm a open source enthusiast, good at front-end development.
 - 🏗 Focus on AI and data visualization
 - 💬 WeChat: `AnyPlot`
 - 📖 Book for sale: [可视化入门：从 0 到 1 开发一个图表库](https://s.juejin.cn/ds/es42rNXc0Ko/)
-
-![hustcc's GitHub stats](https://github.com/hustcc/github-stats/raw/master/generated/overview.svg)
